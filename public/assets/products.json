@@ -1,0 +1,40 @@
+{
+    "products":{
+        "0":{
+            "name": "Product 01",
+            "image":"@/assets/images/products/product01.jpg",
+            "description": "This is a product, and this is the first one. I need to write something, but I really cannot."
+        },
+        "1":{
+            "name": "Product 02",
+            "image":"@/assets/images/products/product02.jpg",
+            "description": "This is a product, and this is the second one. I need to write something, but I really cannot."
+        },
+        "2":{
+            "name": "Product 03",
+            "image":"@/assets/images/products/product03.jpg",
+            "description": "This is a product, and this is the third one. I need to write something, but I really cannot."
+        },
+        "3":{
+            "name": "Product 04",
+            "image":"@/assets/images/products/product04.jpg",
+            "description": "This is a product, and this is the best one. I need to write something, but I really cannot."
+        },
+        "4":{
+            "name": "Product 05",
+            "image":"@/assets/images/products/product05.jpg",
+            "description": "This is a product, and this is the mobile one. I need to write something, but I really cannot."
+        },
+        "5":{
+            "name": "Product 06",
+            "image":"@/assets/images/products/product06.jpg",
+            "description": "This is a product, and this is the PC version. I need to write something, but I really cannot."
+        },
+        "6":{
+            "name": "Product 07",
+            "image":"@/assets/images/products/product07.jpg",
+            "description": "This is a product, and this is the multi system one. I need to write something, but I really cannot."
+        }
+
+    }
+}
